@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/priyans121" target="blank"><img src="https://img.shields.io/twitter/follow/priyansh121?logo=twitter&style=for-the-badge" alt="priyansh121" /></a> </p>
 
-- 🌱 I’m currently learning **c++ , Data structures and Algorithms**
+- 🌱 I’m currently learning ** HTML , CSS and  Data structures and Algorithms**
 
 - 📫 How to reach me **priyanshupatel253@gmail.com**
 
